@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+นี่คือแอพพลิเคชัน ที่ลุงวิศวกรสอนในคอร์สflutter 2 bootcamp แอพนี้เป็นแอพที่เกี่ยวข้องกับการบันทึกรายการที่ต้องทำ สามารถ แสดง เพิ่ม ลบ แก้ไข รายการได้
