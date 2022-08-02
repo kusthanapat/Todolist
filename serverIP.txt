@@ -1,0 +1,2 @@
+only 1 : 192.168.1.105:8000 for don't have a antenna adpter wifi
+only 2 : 192.168.1.145:8000 for have a antenna adapter wifi
